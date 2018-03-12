@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringMaven
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: jagarlamudy
+Implementation-Vendor-Id: com.vasudha
+Build-Jdk: 1.8.0_121
+Implementation-URL: http://projects.spring.io/spring-boot/SpringMaven/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
